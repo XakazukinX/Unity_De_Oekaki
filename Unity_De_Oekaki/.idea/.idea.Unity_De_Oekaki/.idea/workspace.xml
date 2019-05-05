@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7a88b89-7643-43c6-8e1b-a63c275ebf80" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="28061766">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.4" value="4" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="10472" />
+          <entry key="shader" value="31" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="10472" />
+          <entry key="ShaderLab" value="31" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="34" />
+          <entry key="shader" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="34" />
+          <entry key="ShaderLab" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TCPScripts/TCPReceiver.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="29" column="26" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="26" />
+              <folding>
+                <marker date="1557059510190" expanded="true" signature="6:119" ph="..." />
+                <marker date="1557059510190" expanded="true" signature="163:3134" ph="{...}" />
+                <marker date="1557059510190" expanded="true" signature="583:748" ph="{...}" />
+                <marker date="1557059510190" expanded="true" signature="775:1071" ph="{...}" />
+                <marker date="1557059510190" expanded="true" signature="801:1065" ph="{...}" />
+                <marker date="1557059510190" expanded="true" signature="1135:1699" ph="{...}" />
+                <marker date="1557059510190" expanded="true" signature="1268:1399" ph="{...}" />
+                <marker date="1557059510190" expanded="true" signature="1303:1369" ph="{...}" />
+                <marker date="1557059510190" expanded="true" signature="1603:1668" ph="{...}" />
+                <marker date="1557059510190" expanded="true" signature="1750:2090" ph="{...}" />
+                <marker date="1557059510190" expanded="true" signature="1814:1920" ph="/* byteからTexture2D作成 ... */" />
+                <marker date="1557059510190" expanded="true" signature="2009:2084" ph="/* texture.LoadImage(receiveData); ... */" />
+                <marker date="1557059510190" expanded="true" signature="2099:2179" ph="/* 送信されてきた画像がPNGかどうかを調べるための文字列を返す関数 ... */" />
+                <marker date="1557059510190" expanded="true" signature="2227:2517" ph="{...}" />
+                <marker date="1557059510190" expanded="true" signature="2349:2410" ph="{...}" />
+                <marker date="1557059510190" expanded="true" signature="2532:2602" ph="/* 送信されてきた画像のサイズを返す関数 ... */" />
+                <marker date="1557059510190" expanded="true" signature="2648:3132" ph="{...}" />
+                <marker date="1557059510190" expanded="true" signature="2785:2857" ph="{...}" />
+                <marker date="1557059510190" expanded="true" signature="2935:3009" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TCPScripts/TCPSender.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="38" column="39" lean-forward="true" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+              <folding>
+                <marker date="1557064789361" expanded="true" signature="6:161" ph="..." />
+                <marker date="1557064789361" expanded="true" signature="201:2486" ph="{...}" />
+                <marker date="1557064789361" expanded="true" signature="555:951" ph="{...}" />
+                <marker date="1557064789361" expanded="true" signature="606:945" ph="{...}" />
+                <marker date="1557064789361" expanded="true" signature="725:935" ph="{...}" />
+                <marker date="1557064789361" expanded="true" signature="978:1401" ph="{...}" />
+                <marker date="1557064789361" expanded="true" signature="1205:1395" ph="{...}" />
+                <marker date="1557064789361" expanded="true" signature="1452:1934" ph="{...}" />
+                <marker date="1557064789361" expanded="true" signature="1470:1558" ph="{...}" />
+                <marker date="1557064789361" expanded="true" signature="1581:1659" ph="{...}" />
+                <marker date="1557064789361" expanded="true" signature="2008:2484" ph="{...}" />
+                <marker date="1557064789361" expanded="true" signature="2331:2418" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/InkPainter/Sample/Script/MousePainter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="837">
+              <caret line="57" column="25" lean-forward="true" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
+              <folding>
+                <marker date="1556854691738" expanded="true" signature="50:1952" ph="{...}" />
+                <marker date="1556854691738" expanded="true" signature="95:1950" ph="{...}" />
+                <marker date="1556854691738" expanded="true" signature="101:169" ph="/// Types of methods used to paint. ... " />
+                <marker date="1556854691738" expanded="true" signature="222:301" ph="{...}" />
+                <marker date="1556854691738" expanded="true" signature="507:1785" ph="{...}" />
+                <marker date="1556854691738" expanded="true" signature="542:1781" ph="{...}" />
+                <marker date="1556854691738" expanded="true" signature="703:1776" ph="{...}" />
+                <marker date="1556854691738" expanded="true" signature="834:1710" ph="{...}" />
+                <marker date="1556854691738" expanded="true" signature="1787:1947" ph="/* public void OnGUI() ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TCPScripts/TCPSocketServer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+              <folding>
+                <marker date="1556992708258" expanded="false" signature="6:196" ph="..." />
+                <marker date="1556992708258" expanded="true" signature="242:3784" ph="{...}" />
+                <marker date="1556992708258" expanded="true" signature="559:903" ph="{...}" />
+                <marker date="1556992708258" expanded="true" signature="994:2732" ph="{...}" />
+                <marker date="1556992708258" expanded="true" signature="1655:2725" ph="{...}" />
+                <marker date="1556992708258" expanded="true" signature="1977:2045" ph="{...}" />
+                <marker date="1556992708258" expanded="true" signature="2088:2342" ph="{...}" />
+                <marker date="1556992708258" expanded="true" signature="2175:2254" ph="{...}" />
+                <marker date="1556992708258" expanded="true" signature="2368:2441" ph="/* OnMessage(); ... */" />
+                <marker date="1556992708258" expanded="true" signature="2540:2715" ph="{...}" />
+                <marker date="1556992708258" expanded="true" signature="2810:2926" ph="{...}" />
+                <marker date="1556992708258" expanded="true" signature="2837:2920" ph="{...}" />
+                <marker date="1556992708258" expanded="true" signature="3000:3453" ph="{...}" />
+                <marker date="1556992708258" expanded="true" signature="3039:3079" ph="{...}" />
+                <marker date="1556992708258" expanded="true" signature="3195:3447" ph="{...}" />
+                <marker date="1556992708258" expanded="true" signature="3221:3350" ph="{...}" />
+                <marker date="1556992708258" expanded="true" signature="3381:3437" ph="{...}" />
+                <marker date="1556992708258" expanded="true" signature="3513:3782" ph="{...}" />
+                <marker date="1556992708258" expanded="true" signature="3550:3590" ph="{...}" />
+                <marker date="1556992708258" expanded="true" signature="3624:3749" ph="{...}" />
+                <marker date="1556992708258" expanded="true" signature="3679:3739" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>vertex</find>
+      <find>top</find>
+      <find>Er</find>
+      <find>Erase</find>
+      <find>GUI</find>
+      <find>Save Main Texture</find>
+      <find>ADDRESSFAMILY</find>
+      <find>addressfamily</find>
+      <find>ADDRESS</find>
+      <find>_listener</find>
+      <find>Client</find>
+      <find>tcpClient</find>
+      <find>new</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>ADDRESSFAMILYTYPE</replace>
+      <replace>addressfamilyType</replace>
+      <replace>tcpServer</replace>
+    </replaceStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BrushSizeSetter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/InkPainter/Script/Core/InkCanvas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColorChecker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BrushType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TCPScripts/TCPReceiver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/03761.00/Source/NDP/fx/src/net/System/Net/Sockets/TCPListener.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/814BD9A1-1538-4360-9098-E1F5491F0282/31/6227876e/TcpListener.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/InkPainter/Sample/Script/MousePainter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Gradation.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TCPScripts/IPAddressManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78121F72-672F-4A9B-8378-F38120B3DE75/b7/572e5b5b/Texture2D.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColorSetter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/814BD9A1-1538-4360-9098-E1F5491F0282/86/6f49793b/UdpClient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BrushManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2C24F0C1-857D-4078-B6D4-53F88E061A29/74/eefafa60/ICloneable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/03761.00/Source/NDP/fx/src/net/System/Net/IPEndPoint.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E0567A7E-3D82-48AD-A252-603BAEB6BA06/a7/f88b93e2/ICloneable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BrushSwitcher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/03761.00/Source/NDP/fx/src/net/System/Net/EndPoint.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TCPScripts/TCPSocketServer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/99258562-0D64-4271-98DD-F3A0E1467733/7c/96386c1b/Array.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78121F72-672F-4A9B-8378-F38120B3DE75/dc/d8e935a1/Color.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TCPScripts/TCPSender.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/InkPainter/Script/Core/Brush.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/ClearCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DrawTexture.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BrushSizeSetter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ColorSetter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ColorChecker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gradation.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BrushType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BrushManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BrushSwitcher.cs" />
+        <option value="$PROJECT_DIR$/Assets/InkPainter/Script/Core/InkCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TextureReciever.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TextureSender.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TCPScripts/IPAddressManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TCPScripts/TCPSocketServer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TCPScripts/TCPReceiver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TCPScripts/TCPSender.cs" />
+        <option value="$PROJECT_DIR$/Assets/InkPainter/Sample/Script/MousePainter.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="168" />
+    <option name="y" value="-15" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7a88b89-7643-43c6-8e1b-a63c275ebf80" name="Default Changelist" comment="" />
+      <created>1556768696841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556768696841</updated>
+      <workItem from="1556768700168" duration="27319000" />
+      <workItem from="1556806166302" duration="3255000" />
+      <workItem from="1556825515003" duration="52783000" />
+      <workItem from="1557058026848" duration="6051000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="89408000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16897655" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78121F72-672F-4A9B-8378-F38120B3DE75/b7/572e5b5b/Texture2D.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="405" column="16" selection-start-line="405" selection-start-column="16" selection-end-line="405" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/99258562-0D64-4271-98DD-F3A0E1467733/7c/96386c1b/Array.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1422">
+          <caret line="166" column="16" selection-start-line="166" selection-start-column="16" selection-end-line="166" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E0567A7E-3D82-48AD-A252-603BAEB6BA06/a7/f88b93e2/ICloneable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DrawTexture.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2C24F0C1-857D-4078-B6D4-53F88E061A29/74/eefafa60/ICloneable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78121F72-672F-4A9B-8378-F38120B3DE75/dc/d8e935a1/Color.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1845">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ClearCanvas.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BrushSizeSetter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ColorSetter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Gradation.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ColorChecker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/InkPainter/Script/Core/Brush.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BrushType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BrushManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BrushSwitcher.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/814BD9A1-1538-4360-9098-E1F5491F0282/86/6f49793b/UdpClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="265" column="33" selection-start-line="265" selection-start-column="33" selection-end-line="265" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/03761.00/Source/NDP/fx/src/net/System/Net/IPEndPoint.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/03761.00/Source/NDP/fx/src/net/System/Net/EndPoint.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/03761.00/Source/NDP/fx/src/net/System/Net/Sockets/TCPListener.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="164" column="15" selection-start-line="164" selection-start-column="15" selection-end-line="164" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/814BD9A1-1538-4360-9098-E1F5491F0282/31/6227876e/TcpListener.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="134" column="16" selection-start-line="134" selection-start-column="16" selection-end-line="134" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TCPScripts/IPAddressManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="807">
+          <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/InkPainter/Script/Core/InkCanvas.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="1165" column="25" selection-start-line="1165" selection-start-column="25" selection-end-line="1165" selection-end-column="25" />
+          <folding>
+            <marker date="1556867804053" expanded="false" signature="6:206" ph="..." />
+            <marker date="1556867804053" expanded="true" signature="239:43554" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="243:332" ph="/// Texture paint to canvas. ... " />
+            <marker date="1556867804053" expanded="true" signature="439:43552" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="483:4792" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="491:555" ph="/// Applying paint materials. ... " />
+            <marker date="1556867804053" expanded="true" signature="1394:1486" ph="/// In the first time set to the material's main texture. ... " />
+            <marker date="1556867804053" expanded="true" signature="1562:1660" ph="/// Copied the main texture to rendertexture that use to paint. ... " />
+            <marker date="1556867804053" expanded="true" signature="1747:1837" ph="/// In the first time set to the material's normal map. ... " />
+            <marker date="1556867804053" expanded="true" signature="1915:2011" ph="/// Copied the normal map to rendertexture that use to paint. ... " />
+            <marker date="1556867804053" expanded="true" signature="2100:2190" ph="/// In the first time set to the material's height map. ... " />
+            <marker date="1556867804053" expanded="true" signature="2268:2364" ph="/// Copied the height map to rendertexture that use to paint. ... " />
+            <marker date="1556867804053" expanded="false" signature="2453:2747" ph="ShaderPropertyID" />
+            <marker date="1556867804053" expanded="false" signature="2752:4788" ph="Constractor" />
+            <marker date="1556867804053" expanded="true" signature="2775:2834" ph="/// Default constractor. ... " />
+            <marker date="1556867804053" expanded="true" signature="2864:3393" ph="/// Setup paint data. ... " />
+            <marker date="1556867804053" expanded="true" signature="3549:3821" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="3826:4436" ph="/// Setup paint data. ... " />
+            <marker date="1556867804053" expanded="true" signature="4722:4762" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="5216:5283" ph="/// Access data used for painting. ... " />
+            <marker date="1556867804053" expanded="true" signature="5377:5455" ph="/// Called by InkCanvas attached game object. ... " />
+            <marker date="1556867804053" expanded="true" signature="5510:5594" ph="/// Called by InkCanvas initialization start times. ... " />
+            <marker date="1556867804053" expanded="true" signature="5651:5740" ph="/// Called by InkCanvas initialization completion times. ... " />
+            <marker date="1556867804053" expanded="true" signature="5797:5856" ph="/// Called at paint start. ... " />
+            <marker date="1556867804053" expanded="true" signature="5914:5971" ph="/// Called at paint end. ... " />
+            <marker date="1556867804053" expanded="false" signature="6020:6134" ph="SerializedField" />
+            <marker date="1556867804053" expanded="false" signature="6138:6589" ph="ShaderPropertyID" />
+            <marker date="1556867804053" expanded="false" signature="6593:7993" ph="ShaderKeywords" />
+            <marker date="1556867804053" expanded="false" signature="7997:8317" ph="MeshData" />
+            <marker date="1556867804053" expanded="true" signature="8087:8294" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="8098:8290" ph="{...}" />
+            <marker date="1556867804053" expanded="false" signature="8321:9216" ph="UnityEventMethod" />
+            <marker date="1556867804053" expanded="true" signature="8369:8513" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="8537:8696" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="8724:8806" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="8830:9185" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="8853:9181" ph="{...}" />
+            <marker date="1556867804053" expanded="false" signature="9220:22508" ph="PrivateMethod" />
+            <marker date="1556867804053" expanded="true" signature="9245:9306" ph="/// Cach data from the mesh. ... " />
+            <marker date="1556867804053" expanded="true" signature="9337:9800" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="9804:9878" ph="/// To initialize the shader property ID. ... " />
+            <marker date="1556867804053" expanded="true" signature="9910:10824" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="9944:10172" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="10828:10895" ph="/// Set and retrieve the material. ... " />
+            <marker date="1556867804053" expanded="true" signature="10924:11509" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="11396:11505" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="11513:11579" ph="/// Set and retrieve the texture. ... " />
+            <marker date="1556867804053" expanded="true" signature="11607:12042" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="11641:12038" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="12046:12271" ph="/// Create RenderTexture and return. ... " />
+            <marker date="1556867804053" expanded="true" signature="12366:12622" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="12626:12708" ph="/// Creates a rendertexture and set the material. ... " />
+            <marker date="1556867804053" expanded="true" signature="12742:13648" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="12776:13644" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="12804:13063" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="13088:13351" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="13376:13639" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="13652:13719" ph="/// Rendertexture release process. ... " />
+            <marker date="1556867804053" expanded="true" signature="13757:14271" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="13791:14267" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="14275:14465" ph="/// To set the data needed to paint shader. ... " />
+            <marker date="1556867804053" expanded="true" signature="14522:15554" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="14995:15550" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="15558:15758" ph="/// To set the data needed to normal map paint shader ... " />
+            <marker date="1556867804053" expanded="true" signature="15829:17275" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="16419:17064" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="17082:17271" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="17279:17480" ph="/// To set the data needed to height map paint shader. ... " />
+            <marker date="1556867804053" expanded="true" signature="17539:18982" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="18204:18978" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="18986:19496" ph="/// Get an eraser brush. ... " />
+            <marker date="1556867804053" expanded="true" signature="19627:21604" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="19919:20185" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="20207:20506" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="20528:20827" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="20847:21586" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="21608:21943" ph="/// Release the RenderTexture for the eraser. ... " />
+            <marker date="1556867804053" expanded="true" signature="22046:22480" ph="{...}" />
+            <marker date="1556867804053" expanded="false" signature="22512:35214" ph="PublicMethod" />
+            <marker date="1556867804053" expanded="true" signature="22536:22803" ph="/// Paint processing that UV coordinates to the specified. ... " />
+            <marker date="1556867804053" expanded="true" signature="22902:25511" ph="{...}" />
+            <marker date="1556867804053" expanded="false" signature="22910:23072" ph="ErrorCheck" />
+            <marker date="1556867804053" expanded="true" signature="22950:23046" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="23101:23178" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="23289:25419" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="23895:24326" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="24357:24819" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="24850:25301" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="25515:25869" ph="/// Paint of points close to the given world-space position on the Mesh surface. ... " />
+            <marker date="1556867804053" expanded="true" signature="26016:26248" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="26252:26605" ph="/// Paint processing that use world-space surface position. ... " />
+            <marker date="1556867804053" expanded="true" signature="26730:27267" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="27099:27263" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="27271:27559" ph="/// Paint processing that use raycast hit data. ... " />
+            <marker date="1556867804053" expanded="true" signature="27658:28020" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="27694:27999" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="28024:28291" ph="/// Erase processing that UV coordinates to the specified. ... " />
+            <marker date="1556867804053" expanded="true" signature="28390:28473" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="28477:28831" ph="/// Erase of points close to the given world-space position on the Mesh surface. ... " />
+            <marker date="1556867804053" expanded="true" signature="28978:29095" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="29099:29452" ph="/// Erase processing that use world-space surface position. ... " />
+            <marker date="1556867804053" expanded="true" signature="29577:29672" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="29676:29964" ph="/// Erase processing that use raycast hit data. ... " />
+            <marker date="1556867804053" expanded="true" signature="30063:30143" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="30147:30203" ph="/// To reset the paint. ... " />
+            <marker date="1556867804053" expanded="true" signature="30230:30352" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="30356:30530" ph="/// To get the original main texture. ... " />
+            <marker date="1556867804053" expanded="true" signature="30583:30819" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="30823:30997" ph="/// To get the main texture in paint. ... " />
+            <marker date="1556867804053" expanded="true" signature="31061:31302" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="31306:31475" ph="/// Set paint texture. ... " />
+            <marker date="1556867804053" expanded="true" signature="31556:31957" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="31743:31811" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="31961:32131" ph="/// To get the original normal map. ... " />
+            <marker date="1556867804053" expanded="true" signature="32186:32424" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="32428:32598" ph="/// To get the paint in normal map. ... " />
+            <marker date="1556867804053" expanded="true" signature="32664:32907" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="32911:33080" ph="/// Set paint texture. ... " />
+            <marker date="1556867804053" expanded="true" signature="33163:33572" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="33350:33418" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="33576:33746" ph="/// To get the original height map. ... " />
+            <marker date="1556867804053" expanded="true" signature="33801:34039" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="34043:34213" ph="/// To get the paint in height map. ... " />
+            <marker date="1556867804053" expanded="true" signature="34279:34522" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="34526:34695" ph="/// Set paint texture. ... " />
+            <marker date="1556867804053" expanded="true" signature="34778:35187" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="34965:35033" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="35218:43549" ph="CustomEditor" />
+            <marker date="1556867804053" expanded="true" signature="35373:43514" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="35513:41459" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="35894:36265" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="36017:36235" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="36317:36449" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="36656:38659" ph="{...}" />
+            <marker date="1556867804053" expanded="false" signature="36668:38653" ph="PlayModeOperation" />
+            <marker date="1556867804053" expanded="true" signature="36866:38042" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="36970:38035" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="38199:38618" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="38668:41454" ph="{...}" />
+            <marker date="1556867804053" expanded="false" signature="38680:41448" ph="Property Setting" />
+            <marker date="1556867804053" expanded="true" signature="38759:41414" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="38863:41407" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="39321:39732" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="40110:40529" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="40907:41326" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="41593:42302" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="41744:42297" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="42049:42268" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="42394:42756" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="42587:42675" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="42810:43510" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="43274:43360" ph="{...}" />
+            <marker date="1556867804053" expanded="true" signature="43433:43484" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TCPScripts/TCPSocketServer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+          <folding>
+            <marker date="1556992708258" expanded="false" signature="6:196" ph="..." />
+            <marker date="1556992708258" expanded="true" signature="242:3784" ph="{...}" />
+            <marker date="1556992708258" expanded="true" signature="559:903" ph="{...}" />
+            <marker date="1556992708258" expanded="true" signature="994:2732" ph="{...}" />
+            <marker date="1556992708258" expanded="true" signature="1655:2725" ph="{...}" />
+            <marker date="1556992708258" expanded="true" signature="1977:2045" ph="{...}" />
+            <marker date="1556992708258" expanded="true" signature="2088:2342" ph="{...}" />
+            <marker date="1556992708258" expanded="true" signature="2175:2254" ph="{...}" />
+            <marker date="1556992708258" expanded="true" signature="2368:2441" ph="/* OnMessage(); ... */" />
+            <marker date="1556992708258" expanded="true" signature="2540:2715" ph="{...}" />
+            <marker date="1556992708258" expanded="true" signature="2810:2926" ph="{...}" />
+            <marker date="1556992708258" expanded="true" signature="2837:2920" ph="{...}" />
+            <marker date="1556992708258" expanded="true" signature="3000:3453" ph="{...}" />
+            <marker date="1556992708258" expanded="true" signature="3039:3079" ph="{...}" />
+            <marker date="1556992708258" expanded="true" signature="3195:3447" ph="{...}" />
+            <marker date="1556992708258" expanded="true" signature="3221:3350" ph="{...}" />
+            <marker date="1556992708258" expanded="true" signature="3381:3437" ph="{...}" />
+            <marker date="1556992708258" expanded="true" signature="3513:3782" ph="{...}" />
+            <marker date="1556992708258" expanded="true" signature="3550:3590" ph="{...}" />
+            <marker date="1556992708258" expanded="true" signature="3624:3749" ph="{...}" />
+            <marker date="1556992708258" expanded="true" signature="3679:3739" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TCPScripts/TCPSender.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="38" column="39" lean-forward="true" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+          <folding>
+            <marker date="1557064789361" expanded="true" signature="6:161" ph="..." />
+            <marker date="1557064789361" expanded="true" signature="201:2486" ph="{...}" />
+            <marker date="1557064789361" expanded="true" signature="555:951" ph="{...}" />
+            <marker date="1557064789361" expanded="true" signature="606:945" ph="{...}" />
+            <marker date="1557064789361" expanded="true" signature="725:935" ph="{...}" />
+            <marker date="1557064789361" expanded="true" signature="978:1401" ph="{...}" />
+            <marker date="1557064789361" expanded="true" signature="1205:1395" ph="{...}" />
+            <marker date="1557064789361" expanded="true" signature="1452:1934" ph="{...}" />
+            <marker date="1557064789361" expanded="true" signature="1470:1558" ph="{...}" />
+            <marker date="1557064789361" expanded="true" signature="1581:1659" ph="{...}" />
+            <marker date="1557064789361" expanded="true" signature="2008:2484" ph="{...}" />
+            <marker date="1557064789361" expanded="true" signature="2331:2418" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/InkPainter/Sample/Script/MousePainter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="57" column="25" lean-forward="true" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
+          <folding>
+            <marker date="1556854691738" expanded="true" signature="50:1952" ph="{...}" />
+            <marker date="1556854691738" expanded="true" signature="95:1950" ph="{...}" />
+            <marker date="1556854691738" expanded="true" signature="101:169" ph="/// Types of methods used to paint. ... " />
+            <marker date="1556854691738" expanded="true" signature="222:301" ph="{...}" />
+            <marker date="1556854691738" expanded="true" signature="507:1785" ph="{...}" />
+            <marker date="1556854691738" expanded="true" signature="542:1781" ph="{...}" />
+            <marker date="1556854691738" expanded="true" signature="703:1776" ph="{...}" />
+            <marker date="1556854691738" expanded="true" signature="834:1710" ph="{...}" />
+            <marker date="1556854691738" expanded="true" signature="1787:1947" ph="/* public void OnGUI() ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TextureSender.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="68" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TextureReciever.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TCPScripts/TCPReceiver.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="26" />
+          <folding>
+            <marker date="1557059510190" expanded="true" signature="6:119" ph="..." />
+            <marker date="1557059510190" expanded="true" signature="163:3134" ph="{...}" />
+            <marker date="1557059510190" expanded="true" signature="583:748" ph="{...}" />
+            <marker date="1557059510190" expanded="true" signature="775:1071" ph="{...}" />
+            <marker date="1557059510190" expanded="true" signature="801:1065" ph="{...}" />
+            <marker date="1557059510190" expanded="true" signature="1135:1699" ph="{...}" />
+            <marker date="1557059510190" expanded="true" signature="1268:1399" ph="{...}" />
+            <marker date="1557059510190" expanded="true" signature="1303:1369" ph="{...}" />
+            <marker date="1557059510190" expanded="true" signature="1603:1668" ph="{...}" />
+            <marker date="1557059510190" expanded="true" signature="1750:2090" ph="{...}" />
+            <marker date="1557059510190" expanded="true" signature="1814:1920" ph="/* byteからTexture2D作成 ... */" />
+            <marker date="1557059510190" expanded="true" signature="2009:2084" ph="/* texture.LoadImage(receiveData); ... */" />
+            <marker date="1557059510190" expanded="true" signature="2099:2179" ph="/* 送信されてきた画像がPNGかどうかを調べるための文字列を返す関数 ... */" />
+            <marker date="1557059510190" expanded="true" signature="2227:2517" ph="{...}" />
+            <marker date="1557059510190" expanded="true" signature="2349:2410" ph="{...}" />
+            <marker date="1557059510190" expanded="true" signature="2532:2602" ph="/* 送信されてきた画像のサイズを返す関数 ... */" />
+            <marker date="1557059510190" expanded="true" signature="2648:3132" ph="{...}" />
+            <marker date="1557059510190" expanded="true" signature="2785:2857" ph="{...}" />
+            <marker date="1557059510190" expanded="true" signature="2935:3009" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

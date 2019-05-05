@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\tente\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\tente\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Unity_De_Oekaki.-1034223220.00" t="ExcludeRecursive" />
+    <e p="D:\FBCaptureSample\Unity_De_Oekaki" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Gradation.shader" t="Include" />
+        <e p="InkPainter" t="Include">
+          <e p="readme_en.txt" t="Include" />
+          <e p="readme_jp.txt" t="Include" />
+          <e p="Sample" t="Include">
+            <e p="Script" t="Include">
+              <e p="ClipPainter.cs" t="Include" />
+              <e p="CollisionPainter.cs" t="Include" />
+              <e p="CollisionReflectionPainter.cs" t="Include" />
+              <e p="MousePainter.cs" t="Include" />
+              <e p="ReflectPainter.cs" t="Include" />
+              <e p="TextureRecovery.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="TessellateHeightTransform.shader" t="Include" />
+              <e p="VTFHeightTransform.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Script" t="Include">
+            <e p="Core" t="Include">
+              <e p="Brush.cs" t="Include" />
+              <e p="InkCanvas.cs" t="Include" />
+              <e p="Math.cs" t="Include" />
+              <e p="MeshOperator.cs" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="UVChecker.cs" t="Include" />
+            </e>
+            <e p="Effective" t="Include">
+              <e p="GrabArea.cs" t="Include" />
+              <e p="HeightFluid.cs" t="Include" />
+              <e p="ReverseUV.cs" t="Include" />
+              <e p="TextureMorphing.cs" t="Include" />
+            </e>
+            <e p="Extenision" t="Include">
+              <e p="GameObjectExtension.cs" t="Include" />
+            </e>
+            <e p="Util" t="Include">
+              <e p="SceneViewCamera.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Shader" t="Include">
+            <e p="Effective" t="Include">
+              <e p="GrabArea.shader" t="Include" />
+              <e p="HeightDrip.shader" t="Include" />
+              <e p="HeightToColor.shader" t="Include" />
+              <e p="HeightToNormal.shader" t="Include" />
+              <e p="InvertAlpha.shader" t="Include" />
+              <e p="ReverseUV.shader" t="Include" />
+              <e p="SingleColorFill.shader" t="Include" />
+              <e p="TextureMorphing.shader" t="Include" />
+            </e>
+            <e p="lib" t="Include">
+              <e p="InkPainterFoundation.cginc" t="Include" />
+            </e>
+            <e p="Paint" t="Include">
+              <e p="PaintHeight.shader" t="Include" />
+              <e p="PaintMain.shader" t="Include" />
+              <e p="PaintNormal.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BrushManager.cs" t="Include" />
+          <e p="BrushSizeSetter.cs" t="Include" />
+          <e p="BrushSwitcher.cs" t="Include" />
+          <e p="BrushType.cs" t="Include" />
+          <e p="ColorChecker.cs" t="Include" />
+          <e p="ColorSetter.cs" t="Include" />
+          <e p="SingletonMonoBehaviour.cs" t="Include" />
+          <e p="TCPScripts" t="Include">
+            <e p="IPAddressManager.cs" t="Include" />
+            <e p="TCPReceiver.cs" t="Include" />
+            <e p="TCPSender.cs" t="Include" />
+            <e p="TCPSocketServer.cs" t="Include" />
+          </e>
+          <e p="TextureReciever.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="Unity_De_Oekaki.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
