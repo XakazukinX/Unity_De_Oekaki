@@ -21,13 +21,16 @@ public class TCPReceiver : TCPSocketServer
 
     private byte[] textureData;
     private bool isDone;
+
+    [SerializeField] private Text ipAddressText;
     
     private void Start()
     {
         // 接続中のIPV4を取得
         var ipAddress = IPAddressManager.GetIP(ADDRESSFAMILYTYPE.IPv4);
         // 指定したポートを開く
-        Listen("127.0.0.1", _port);
+        Listen(ipAddress, _port);
+        ipAddressText.text = ipAddress;
     }
 
     private void Update()
