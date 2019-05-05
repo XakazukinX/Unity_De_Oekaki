@@ -62,8 +62,9 @@ public class TCPSender : MonoBehaviour
         nStream.ReadTimeout = 15000;
         nStream.WriteTimeout = 15000;
 
+        
         //データを送信する
-        await nStream.WriteAsync(sendBytes, 0, sendBytes.Length);
+        nStream.Write(sendBytes, 0, sendBytes.Length);
         nStream.Close();
         tcpClient.Close();
     }
@@ -83,6 +84,6 @@ public class TCPSender : MonoBehaviour
         }
         
         Send(pngData);
-        Debug.Log("Send!");
+        Debug.Log("send " + pngData.Length + " byte data");
     }
 }

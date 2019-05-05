@@ -27,7 +27,7 @@ public class TCPReceiver : TCPSocketServer
         // 接続中のIPV4を取得
         var ipAddress = IPAddressManager.GetIP(ADDRESSFAMILYTYPE.IPv4);
         // 指定したポートを開く
-        Listen("127.0.0.1", _port);
+        Listen(ipAddress, _port);
     }
 
     private void Update()
@@ -64,6 +64,7 @@ public class TCPReceiver : TCPSocketServer
         setTexture(size[0],size[1]);
 
         textureData = new byte[receiveData.Length];
+        Debug.LogError("File Data is "+receiveData.Length +"byte");
         for (int i = 0; i < receiveData.Length; i++)
         {
             textureData[i] = receiveData[i];
